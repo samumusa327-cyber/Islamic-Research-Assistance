@@ -1,4 +1,3 @@
-
 from fastapi import FastAPI
 
 app = FastAPI(
@@ -18,6 +17,7 @@ def health():
     return {
         "status": "healthy"
     }
+
 @app.get("/research")
 def research():
     return {
