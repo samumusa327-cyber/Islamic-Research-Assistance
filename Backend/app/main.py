@@ -24,3 +24,4 @@ def research():
         "message": "Islamic Research endpoint is ready"
     }
     
+    
