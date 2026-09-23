@@ -23,3 +23,4 @@ def research():
     return {
         "message": "Islamic Research endpoint is ready"
     }
+    
