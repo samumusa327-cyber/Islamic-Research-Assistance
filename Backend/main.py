@@ -1,4 +1,4 @@
-Python
+
 
 from fastapi import FastAPI
 
